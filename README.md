@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Laxman Mudigonda</h1>
 
 <h3 align="center">
-Backend Developer • Python • Distributed Systems • AI/ML
+Backend & Python Developer | Distributed Systems | AI/ML
 </h3>
 
 <p align="center">
-Computer Science Engineer focused on building reliable backend systems,
-distributed applications, automation tools, and practical AI projects.
+I build backend systems, distributed applications, automation tools, and practical AI projects.
 </p>
 
 <p align="center">
@@ -19,12 +18,83 @@ distributed applications, automation tools, and practical AI projects.
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building backend and distributed systems projects
-- 🐍 Primarily working with **Python**
-- ⚙️ Interested in **Backend Engineering, Distributed Systems, APIs and AI/ML**
-- 🧠 Learning more about **system design, scalable architectures and deep learning**
-- 🚀 I enjoy turning ideas into complete working applications
-- 📍 Hyderabad, India
+- 🐍 Python-focused developer building **backend and distributed systems**
+- ⚙️ Working with **FastAPI, PostgreSQL, Redis, Docker and REST APIs**
+- 🧠 Exploring **system design, deep learning and computer vision**
+- 🚀 I enjoy building complete applications from architecture to deployment
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [⚙️ QueueMaster](https://github.com/laxmanmudigonda/Queue-Master) | Distributed background job processing platform with workers, retries, scheduling, priority execution and monitoring | Python, FastAPI, PostgreSQL, Redis, Docker |
+| [🔗 HookRelay](https://github.com/laxmanmudigonda/Hook-Relay) | Reliable webhook delivery platform with retries, idempotency, HMAC signing and dead-letter handling | Python, FastAPI, AsyncIO |
+| [💰 SmartExpense](https://github.com/laxmanmudigonda/Smart-Expense) | Personal finance application for tracking expenses, transactions and spending insights | Python, Flask, SQL, JavaScript |
+| [🧠 CNN Face Recognition](https://github.com/laxmanmudigonda/cnn-face-recognition) | Deep learning face recognition project using convolutional neural networks and computer vision | Python, CNN, OpenCV |
+| [🎵 Spotify](https://github.com/laxmanmudigonda/Spotify) | Desktop Spotify application with authentication, playlist access and Spotify Web API integration | Python, Tkinter, Spotipy |
+| [🌐 Portfolio](https://github.com/laxmanmudigonda/laxmanmudigonda.github.io) | Personal developer portfolio showcasing projects, experience, certifications and technical skills | HTML, CSS, JavaScript |
+
+---
+
+## ⭐ Highlighted Engineering Work
+
+### ⚙️ QueueMaster
+
+A distributed background job processing system built to demonstrate backend architecture and asynchronous task execution.
+
+**Key features**
+
+- Multiple independent workers
+- Priority-based job processing
+- Automatic retries
+- Scheduled job execution
+- PostgreSQL persistence
+- Redis coordination
+- Job monitoring dashboard
+- Dockerized services
+
+**Tech:** `Python` `FastAPI` `PostgreSQL` `Redis` `Docker`
+
+[View QueueMaster →](https://github.com/laxmanmudigonda/Queue-Master)
+
+---
+
+### 🔗 HookRelay
+
+A reliable webhook delivery system designed around common distributed-systems failure scenarios.
+
+**Key features**
+
+- Asynchronous webhook delivery
+- Automatic retry handling
+- Idempotent processing
+- HMAC request signing
+- Dead-letter handling
+- Failure recovery
+
+**Tech:** `Python` `FastAPI` `AsyncIO`
+
+[View HookRelay →](https://github.com/laxmanmudigonda/Hook-Relay)
+
+---
+
+### 💰 SmartExpense
+
+A personal finance application designed to make expense tracking and financial analysis easier.
+
+**Key features**
+
+- Expense and transaction tracking
+- Financial dashboard
+- User authentication
+- Spending analysis
+- Interactive interface
+
+**Tech:** `Python` `Flask` `SQL` `JavaScript`
+
+[View SmartExpense →](https://github.com/laxmanmudigonda/Smart-Expense)
 
 ---
 
@@ -42,7 +112,7 @@ distributed applications, automation tools, and practical AI projects.
   <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,redis" />
 </p>
 
-### Tools
+### Tools & Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
@@ -56,165 +126,22 @@ distributed applications, automation tools, and practical AI projects.
 
 ---
 
-# 🚀 Featured Projects
-
-## ⚙️ QueueMaster
-
-**Distributed Background Job Processing Platform**
-
-QueueMaster is a backend-focused task processing system designed to execute jobs asynchronously using independent workers.
-
-### Key Features
-
-- Multiple asynchronous workers
-- Priority-based task processing
-- Automatic retry mechanisms
-- PostgreSQL persistent job storage
-- Redis-based coordination
-- Job scheduling
-- Interactive monitoring dashboard
-- Dockerized architecture
-
-### Tech Stack
-
-`Python` `FastAPI` `PostgreSQL` `Redis` `Docker`
-
-🔗 [View Repository](https://github.com/laxmanmudigonda/Queue-Master)
-
----
-
-## 🔗 HookRelay
-
-**Reliable Webhook Delivery Infrastructure**
-
-A backend system designed to reliably deliver webhooks while handling common distributed-system failure scenarios.
-
-### Key Features
-
-- Asynchronous webhook delivery
-- Automatic retries
-- Idempotent processing
-- HMAC request signing
-- Dead-letter handling
-- Failure recovery mechanisms
-
-### Tech Stack
-
-`Python` `FastAPI` `AsyncIO`
-
-🔗 [View Repository](https://github.com/laxmanmudigonda/Hook-Relay)
-
----
-
-## 💰 SmartExpense
-
-**Personal Finance & Expense Management Application**
-
-A finance management application designed to help users track expenses and understand their spending patterns.
-
-### Key Features
-
-- Expense tracking
-- Financial dashboard
-- Transaction management
-- User authentication
-- Spending analytics
-
-### Tech Stack
-
-`Python` `Flask` `SQL` `JavaScript`
-
-🔗 [View Repository](https://github.com/laxmanmudigonda/Smart-Expense)
-
----
-
-## 🧠 CNN Face Recognition
-
-**Deep Learning Face Recognition System**
-
-A computer vision project that uses convolutional neural networks for facial recognition and classification.
-
-### Tech Stack
-
-`Python` `CNN` `Computer Vision` `OpenCV` `Deep Learning`
-
-🔗 [View Repository](https://github.com/laxmanmudigonda/cnn-face-recognition)
-
----
-
-## 🎵 Spotify Tools
-
-**Spotify Desktop Management Application**
-
-A Python desktop application that integrates directly with the Spotify Web API.
-
-### Features
-
-- Spotify authentication
-- View playlists
-- Playlist interaction
-- Shuffle control
-- Spotify API integration
-- Desktop GUI
-
-### Tech Stack
-
-`Python` `Tkinter` `Spotipy` `Spotify Web API`
-
-🔗 [View Repository](https://github.com/laxmanmudigonda/Spotify)
-
----
-
-## 🌐 Portfolio
-
-My personal developer portfolio showcasing my projects, technical skills, experience, and certifications.
-
-🔗 [View Repository](https://github.com/laxmanmudigonda/laxmanmudigonda.github.io)
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=laxmanmudigonda&show_icons=true&theme=github_dark&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanmudigonda&layout=compact&theme=github_dark&hide_border=true"
-  />
-</p>
-
----
-
-## 🔥 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=laxmanmudigonda&theme=github-dark-blue&hide_border=true"
-  />
-</p>
-
----
-
-## 🎯 Current Focus
+## 🧩 What I Like Building
 
 ```text
 Backend Engineering
-        │
-        ├── Python
-        ├── FastAPI
-        ├── REST APIs
-        ├── PostgreSQL
-        ├── Redis
-        ├── Docker
-        │
-        └── Distributed Systems
+│
+├── REST APIs
+├── Background Workers
+├── Task Queues
+├── Database-backed Systems
+├── Distributed Applications
+├── Automation
+└── System Design
 
 Artificial Intelligence
-        │
-        ├── Deep Learning
-        ├── Computer Vision
-        └── Machine Learning
+│
+├── Deep Learning
+├── Computer Vision
+├── CNNs
+└── Practical ML Applications
