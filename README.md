@@ -25,73 +25,6 @@ I build backend systems, distributed applications, automation tools, and practic
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [⚙️ QueueMaster](https://github.com/laxmanmudigonda/Queue-Master) | Distributed background job processing platform with workers, retries, scheduling, priority execution and monitoring | Python, FastAPI, PostgreSQL, Redis, Docker |
-| [🔗 HookRelay](https://github.com/laxmanmudigonda/Hook-Relay) | Reliable webhook delivery platform with retries, idempotency, HMAC signing and dead-letter handling | Python, FastAPI, AsyncIO |
-| [💰 SmartExpense](https://github.com/laxmanmudigonda/Smart-Expense) | Personal finance application for tracking expenses, transactions and spending insights | Python, Flask, SQL, JavaScript |
-| [🧠 CNN Face Recognition](https://github.com/laxmanmudigonda/cnn-face-recognition) | Deep learning face recognition project using convolutional neural networks and computer vision | Python, CNN, OpenCV |
-| [🎵 Spotify](https://github.com/laxmanmudigonda/Spotify) | Desktop Spotify application with authentication, playlist access and Spotify Web API integration | Python, Tkinter, Spotipy |
-| [🌐 Portfolio](https://github.com/laxmanmudigonda/laxmanmudigonda.github.io) | Personal developer portfolio showcasing projects, experience, certifications and technical skills | HTML, CSS, JavaScript |
-
----
-
-## ⭐ Highlighted Engineering Work
-
-### ⚙️ QueueMaster
-
-A distributed background job processing system built to demonstrate backend architecture and asynchronous task execution.
-
-**Key features**
-
-- Multiple independent workers
-- Priority-based job processing
-- Automatic retries
-- Scheduled job execution
-- PostgreSQL persistence
-- Redis coordination
-- Job monitoring dashboard
-- Dockerized services
-
-**Tech:** `Python` `FastAPI` `PostgreSQL` `Redis` `Docker`
-
-[View QueueMaster →](https://github.com/laxmanmudigonda/Queue-Master)
-
----
-
-### 🔗 HookRelay
-
-A reliable webhook delivery system designed around common distributed-systems failure scenarios.
-
-**Key features**
-
-- Asynchronous webhook delivery
-- Automatic retry handling
-- Idempotent processing
-- HMAC request signing
-- Dead-letter handling
-- Failure recovery
-
-**Tech:** `Python` `FastAPI` `AsyncIO`
-
-[View HookRelay →](https://github.com/laxmanmudigonda/Hook-Relay)
-
----
-
-### 💰 SmartExpense
-
-A personal finance application designed to make expense tracking and financial analysis easier.
-
-**Key features**
-
-- Expense and transaction tracking
-- Financial dashboard
-- User authentication
-- Spending analysis
-- Interactive interface
-
 **Tech:** `Python` `Flask` `SQL` `JavaScript`
 
 [View SmartExpense →](https://github.com/laxmanmudigonda/Smart-Expense)
@@ -123,6 +56,19 @@ A personal finance application designed to make expense tracking and financial a
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [⚙️ QueueMaster](https://github.com/laxmanmudigonda/Queue-Master) | Distributed background job processing platform with workers, retries, scheduling, priority execution and monitoring | Python, FastAPI, PostgreSQL, Redis, Docker |
+| [🔗 HookRelay](https://github.com/laxmanmudigonda/Hook-Relay) | Reliable webhook delivery platform with retries, idempotency, HMAC signing and dead-letter handling | Python, FastAPI, AsyncIO |
+| [💰 SmartExpense](https://github.com/laxmanmudigonda/Smart-Expense) | Personal finance application for tracking expenses, transactions and spending insights | Python, Flask, SQL, JavaScript |
+| [🧠 CNN Face Recognition](https://github.com/laxmanmudigonda/cnn-face-recognition) | Deep learning face recognition project using convolutional neural networks and computer vision | Python, CNN, OpenCV |
+| [🎵 Spotify](https://github.com/laxmanmudigonda/Spotify) | Desktop Spotify application with authentication, playlist access and Spotify Web API integration | Python, Tkinter, Spotipy |
+| [🌐 Portfolio](https://github.com/laxmanmudigonda/laxmanmudigonda.github.io) | Personal developer portfolio showcasing projects, experience, certifications and technical skills | HTML, CSS, JavaScript |
 
 ---
 
